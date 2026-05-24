@@ -1,10 +1,10 @@
-🤖 Automation Anywhere Portfolio
+Automation Anywhere Portfolio
 About
 Portfolio of studies, projects, and professional experience in Automation Anywhere (A360) — Robotic Process Automation (RPA).
 I'm a Production Engineer and RPA Developer with 4+ years of hands-on experience building and deploying bots in Automation Anywhere Automation 360, working across multiple industries and business processes.
 
 Certification
-🏅 Automation Anywhere Certified Advanced RPA Professional (Automation 360)
+Automation Anywhere Certified Advanced RPA Professional (Automation 360)
 
 Tools & Technologies
 
